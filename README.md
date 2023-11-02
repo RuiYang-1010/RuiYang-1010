@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Rui's Github stats](https://awesome-github-stats.azurewebsites.net/user-stats/RuiYang-1010?cardType=level)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiYang-1010&langs_count=3&role=OWNER)
